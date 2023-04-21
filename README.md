@@ -7,10 +7,10 @@ añadir la extensión de jupyther
 descargar e instalar miniconda https://docs.conda.io/en/latest/miniconda.html
 
 Pasos: 
-abrir terminal command promp en visual studio code y colocar la siguiente linea de comandos
-      conda create --name ia
-      conda install -c conda-forge r-base
-      conda install -c conda forge r-irkernel
+- abrir terminal command promp en visual studio code y colocar la siguiente linea de comandos
+- conda create --name ia
+- conda install -c conda-forge r-base
+- conda install -c conda forge r-irkernel
       
       
       
